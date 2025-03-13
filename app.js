@@ -52,3 +52,4 @@ function sortearAmigo() {
     resultado.innerHTML = `El amigo sorteado es: ${amigoSecreto}`;
     
     renderAmigos(); // Actualiza la lista visible para reflejar los cambios
+}
