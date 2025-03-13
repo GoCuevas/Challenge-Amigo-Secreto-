@@ -24,6 +24,8 @@ function renderAmigos(){
         listaAmigos.appendChild(item);
     }
 }
+
+//Siguiente bloque deshabilitado para uso de Splice
 /*
 function sortearAmigo(){
     if (amigo.length === 0){
